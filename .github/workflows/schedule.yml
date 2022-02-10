@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/Ohhansoo/
+          GIST_ID: https://gist.github.com/Ohhansoo/aebaaf60ce6ab718bc598419f5d27f87
           TIMEZONE: Asia/Seoul
